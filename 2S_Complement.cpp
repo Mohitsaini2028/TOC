@@ -53,3 +53,13 @@ int main()
         cout << " After twos complement the value = " << twComp << endl;
     }
 }
+
+//Output
+/*
+Find two's complement of a binary value:
+----------------------------------------------
+ Input a 8 bit binary value: 10101011
+ The original binary = 10101011
+ After ones complement the value = 01010100
+ After twos complement the value = 01010101
+*/
